@@ -1,5 +1,5 @@
 .page {
-  max-width: 100%;
+  width: 100%;
   background-color: #2a2c2f;
   font-family: "Inter", "Arial", sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -8,6 +8,4 @@
   -moz-text-size-adjust: 100%;
   padding-bottom: 24px;
   box-sizing: border-box;
-  margin-left: auto;
-  margin-right: auto;
 }
